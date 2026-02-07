@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "命ばっかり / ぬゆり(cover) - Eve",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-07T02:57:27.299171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_命ばっかり_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO",
+      "has_synced": true,
+      "path": "select/02_命ばっかり_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "ぬゆり",
+      "has_synced": true,
+      "path": "select/03_命ばっかり_ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_命ばっかり_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "命ばっかり / ぬゆり(cover) - Eve",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_命ばっかり___ぬゆり(cover)_-_Eve_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "+α",
+      "has_synced": true,
+      "path": "select/06_命ばっかり_+α.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "＋α／あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/07_命ばっかり_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "Eve和Sou",
+      "has_synced": true,
+      "path": "select/08_命ばっかり_Eve和Sou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "Eve, Sou",
+      "has_synced": true,
+      "path": "select/09_命ばっかり_Eve,_Sou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "ぬゆり feat. Eve",
+      "has_synced": true,
+      "path": "select/10_命ばっかり_ぬゆり_feat._Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "命ばっかり",
+      "artist": "25時、ナイトコードで。 (楠木ともり, 田辺留依, 鈴木みのり, 佐藤日向) Feat. MEIKO",
+      "has_synced": true,
+      "path": "select/11_命ばっかり_25時、ナイトコードで。_(楠木ともり,_田辺留依,_鈴木みのり,_佐藤日向)_Feat._MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "命ばっかり (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/12_命ばっかり_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命ばっかり",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_命ばっかり_Eve.txt"
+    }
+  ]
+}
